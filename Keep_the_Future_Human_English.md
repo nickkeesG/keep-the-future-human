@@ -142,7 +142,6 @@ It is also of epochal importance, and transcendent risk. Proponents of AGI see i
 
 Superintelligent AI is rapidly approaching on our current path, but is far from inevitable. This essay is an extended argument as to why and how we should *close the Gates* to this approaching inhuman future, and what we should do instead.
 
-### Footnotes
 
 [^1]: This [chart](https://time.com/6300942/ai-progress-charts/) shows a set of tasks; many similar curves could be added to this graph. This rapid progress in narrow AI has surprised even experts in the field, with benchmarks being surpassed years ahead of predictions.
 
@@ -200,7 +199,6 @@ The distinction between reliable behavior and genuine care is crucial. Just as a
 
 The profound difficulties in solving these alignment challenges, and their implications for AI risk, will be explored further below. For now, understand that alignment is not just a technical feature we tack on to AI systems, but a fundamental aspect of their architecture that shapes their relationship with humanity.
 
-### Footnotes
 
 [^5]: For a gentle but technical introduction to machine learning and AI, particularly language models, see [this site.](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) For another modern primer on AI extinction risks, see [this piece.](https://www.thecompendium.ai/) For a comprehensive and authoritative scientific analysis of the state of AI safety, see the recent [International AI Safety Report.](https://arxiv.org/abs/2501.17805)
 
@@ -250,7 +248,6 @@ Similarly, composite systems and especially advances in "chain of thought" (and 
 
 While only a part of what is leading to rapid AI progress,[^25] the role of computation and the possibility of composite systems will prove crucial to both preventing uncontrollable AGI and developing safer alternatives.
 
-### Footnotes
 
 [^16]: 10 <sup>27</sup> means 1 followed by 25 zeros, or ten trillion trillion. A FLOP is just an arithmetic addition or multiplication of numbers with some precision. Note that AI hardware performance can vary by a factor of ten more depending upon the precision of the arithmetic and the architecture of the computer. Counting logic-gate operations (ANDS, ORS, AND NOTS) would be fundamental but these are not commonly available or benchmarked; for present purposes it is useful to standardize on 16-bit operations (FP16), though appropriate conversion factors should be established.
 
@@ -306,7 +303,6 @@ For superintelligence the imagining is harder, because the idea is that it could
 
 So how close *are we* to AGI and superintelligence?
 
-### Footnotes
 
 [^26]: For instance, current AI systems far exceed human capability in rapid arithmetic or memory tasks, while falling short in abstract reasoning and creative problem-solving.
 
@@ -371,7 +367,6 @@ This type of feedback cycle could happen with any technology, and we've seen it 
 
 Several of these stages are already underway, and a couple clearly getting started. The last stage, in which AI systems autonomously improve themselves, has been a staple of the literature on the risk of very powerful AI systems, and for good reason.[^46] But it is important to note that it is just the most drastic form of a feedback cycle that has already started and could lead to more surprises in the rapid advancement of the technology.
 
-### Footnotes
 
 [^31]: You use a lot more of this AI than you probably think, driving speech generation and recognition, image processing, newsfeed algorithms, etc.
 
@@ -471,7 +466,6 @@ That is, what companies and nations are really chasing is not just the fruits of
 
 These racing dynamics – both corporate and geopolitical – make certain risks nearly inevitable unless decisively interrupted. We turn now to examining these risks and why they cannot be adequately mitigated within a competitive [^54] development paradigm.
 
-### Footnotes
 
 [^47]: A more precise list of worthy goals is the UN [Sustainable Development Goals.](https://sdgs.un.org/goals) These are, in a sense, the closest we have to a set of global consensus goals for what we'd like to see improved in the world. AI could help.
 
@@ -650,7 +644,6 @@ There is a scenario in which building AGI may go well for humanity: it is built 
 
 As an early fictional depiction of AGI put it: the only way to win is not to play.
 
-### Footnotes
 
 [^55]: The [EU AI act](https://artificialintelligenceact.eu/) is a significant piece of legislation but would not directly prevent a dangerous AI system from being developed or deployed, or even openly released, especially in the US. Another significant piece of policy, the US Executive order on AI, has been rescinded.
 
@@ -832,7 +825,6 @@ In the yet longer term, there will be choices to make as to what we allow. We ma
 
 ![](https://keepthefuturehuman.ai/essay/_next/image?url=https%3A%2F%2Fkeepthefuturehuman.ai%2Fwp-content%2Fuploads%2F2025%2F02%2FAGI-Venn-Diagram-Risk-Tiers-1024x1024.png&w=3840&q=75) Summary of A-G-I and superintelligence governance via liability and regulation. Liability is highest, and regulation strongest, at the triple-intersection of Autonomy, Generality, and Intelligence. Safe harbors from strict liability and strong regulation can be obtained via affirmative safety cases demonstrating that a system is weak and/or narrow and/or passive. Caps on total Training Compute and Inference Compute rate, verified and enforced legally and using hardware and cryptographic security measures, backstop safety by avoiding full AGI and effectively prohibiting superintelligence.
 
-### Footnotes
 
 [^87]: Most likely, the spread of this realization will take either intense effort by education and advocacy groups making this case, or a pretty significant AI-caused disaster. We can hope it will be the former.
 
@@ -1018,9 +1010,6 @@ Perhaps most intriguingly, AI could enable entirely new forms of social discours
 
 These possibilities might sound utopian, especially given AI's current role in degrading discourse and trust. But that's precisely why we must actively develop these positive applications. By closing the Gates to uncontrollable AGI and prioritizing AI that enhances human agency, we can steer technological progress toward a future where AI serves as a force for empowerment, resilience, and collective advancement.
 
----
-
-### Footnotes
 
 [^124]: That said, staying away from the triple-intersection is unfortunately not as easy as one might like. Pushing capability very hard in any one of the three aspects tends to increase it in the others. In particular, it may be hard to create an extremely general and capable intelligence that can't be easily turned autonomous. One approach is to train models ["myopic"](https://www.alignmentforum.org/posts/LCLBnmwdxkkz5fNvH/open-problems-with-myopia) systems with hobbled planning ability. Another would to focus on engineering pure ["oracle"](https://arxiv.org/abs/1711.05541) systems that would shy away from answering action-oriented questions.
 

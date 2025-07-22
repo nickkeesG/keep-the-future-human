@@ -1,0 +1,27 @@
+# Translation Pipeline Configuration
+
+# Source files in processing order
+source_files:
+  - "keep the future human.md"
+  - "0.md"
+  - "1.md"
+  - "2.md"
+  - "3.md"
+  - "4.md"
+  - "5.md"
+  - "6.md"
+  - "7.md"
+  - "8.md"
+  - "9.md"
+  - "10.md"
+  - "11.md"
+  - "12.md"
+
+# API Configuration
+api:
+  model: "claude-sonnet-4-20250514"
+
+# Directories
+directories:
+  source: "original markdown"
+  output: "translations"
